@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# outputs and photos stay out of git by default
+results/
+demo_frames/
+demo_results/
+data/raw/
+*.CR2
+*.CR3
+*.NEF
+*.ARW
+*.DNG
+*.RAF
+*.ORF
+*.RW2
